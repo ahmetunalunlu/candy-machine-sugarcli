@@ -1,0 +1,20 @@
+{
+    "name": "Gary",
+    "symbol": "SB",
+    "description": "A yellow sea sponge named SpongeBob SquarePants, who enjoys being a cook at Krusty Krab, lives in the Pacific Ocean. 07",
+    "image": "6.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "6"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
